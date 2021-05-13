@@ -1,0 +1,11 @@
+Mesh_Size: 20
+Sources: 9000, 800
+X_lower: -1
+X_upper: 1
+Y_lower: -1
+Y_upper: 1
+Location_mesh: 10, 15, 4, 4
+Sigma_transport: 0.32
+Sigma_absorption: 0.05
+Tolerance: 1e-7
+Uniform: False
